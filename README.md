@@ -22,9 +22,9 @@ The model was trained for 500 epochs on Tesal k80 GPU and [flickr8k](https://www
 ![Loss](http://ee.sharif.edu/~amin/static/Deep/captioner_loss.png)
 ![Accuracy](http://ee.sharif.edu/~amin/static/Deep/captioner_acc.png)
 
-
+<!-- 
 ### Some Test Images
 
-<!-- | ![image 1](http://ee.sharif.edu/~amin/static/Deep/captioner_1.png)  | ![image 2](http://ee.sharif.edu/~amin/static/Deep/captioner_2.png)|
+| ![image 1](http://ee.sharif.edu/~amin/static/Deep/captioner_1.png)  | ![image 2](http://ee.sharif.edu/~amin/static/Deep/captioner_2.png)|
 | ------------- |-------------|
-| ![image 3](http://ee.sharif.edu/~amin/static/Deep/captioner_3.png)  | ![image 4](http://ee.sharif.edu/~amin/static/Deep/captioner_4.png)| -->
+| ![image 3](http://ee.sharif.edu/~amin/static/Deep/captioner_3.png)  | ![image 4](http://ee.sharif.edu/~amin/static/Deep/captioner_4.png)|  -->

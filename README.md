@@ -15,7 +15,7 @@ I used resnet152 as CNN encoder and LSTMs as RNN decoder. You can see a schemati
 
 ### Training
 
-The model was trained for 500 epochs on Tesal k80 GPU and [flickr8k](https://www.kaggle.com/adityajn105/flickr8k). The embedding layer weights were obtained from [Stanford glove.42B.300d](http://nlp.stanford.edu/data/glove.42B.300d.zip) (random value was used for the words which weren't in the glove).
+The model was trained for 500 epochs on Tesla k80 GPU and [flickr8k](https://www.kaggle.com/adityajn105/flickr8k). The embedding layer weights were obtained from [Stanford glove.42B.300d](http://nlp.stanford.edu/data/glove.42B.300d.zip) (random value was used for the words which weren't in the glove).
 
 ### Loss and Accuracy
 
